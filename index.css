@@ -33,6 +33,7 @@ input[type="checkbox"] {
 	transition: all 0.3s ease-in-out;
 	position: relative;
 	margin: 50px;
+	cursor: pointer;
 }
 
 input:checked[type="checkbox"] {
